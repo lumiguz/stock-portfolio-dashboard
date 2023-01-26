@@ -8,9 +8,9 @@ This project identifies the evolution of my trading skills and the key values to
 
 you can check it out in [Google Sheets](https://docs.google.com/spreadsheets/d/1AEYjIovWEyUfTNqANrgn1UVVQdHeInf429RTJ-zJGYg/edit?usp=sharing) as well
 
-## Key Insights
-- The effectiveness win of pro traders is 30%, I'm over it with 46.78%
-- I tend to BUY more than SELL
-- I need to work on the average reward 
-- I need a lot of $$ to live off trading
-- The average revenue per year is $10k
+## Conclusions
+- The effectiveness win of pro traders is around 30%, and I'm over it with 46.78%.
+- I need to work on the average reward to keep increasing the ratio and revenue.
+- I tend to BUY more than SELL in my operations.
+- The average revenue per year is around $10k.
+- I need a lot of $$ to live off trading.
