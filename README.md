@@ -11,6 +11,6 @@ you can check it out in [Google Sheets](https://docs.google.com/spreadsheets/d/1
 ## Key Insights
 - The effectiveness win of pro traders is 30%, I'm over it with 46.78%
 - I tend to BUY more than SELL
-- I need to work in the average reward 
+- I need to work on the average reward 
 - I need a lot of $$ to live off trading
 - The average revenue per year is $10k
